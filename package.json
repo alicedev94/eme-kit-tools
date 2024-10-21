@@ -3,7 +3,6 @@
   "version": "1.0.1-pre-alpha.0",
   "description": "eme-kit-tools",
   "style": "dist/base.css",
-  "type": "module",
   "main": "index.js",
   "scripts": {
     "build": "copy src\\*.css dist\\"

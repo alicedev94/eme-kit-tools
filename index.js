@@ -1,7 +1,7 @@
-import './dist/base.css';
-import './dist/color.css';
-import './dist/custom.css';
-import './dist/normalize_v8.0.1.css';
-import './dist/responsive_desing.css';
-import './dist/theme.css';
-import './dist/utils.css';
+require('./dist/base.css');
+require('./dist/color.css');
+require('./dist/custom.css');
+require('./dist/normalize_v8.0.1.css');
+require('./dist/responsive_desing.css');
+require('./dist/theme.css');
+require('./dist/utils.css');
